@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "PaymentsCardEngine"
-  spec.version      = "0.1.0"
+  spec.version      = "0.1.3"
   spec.summary      = "This is the core AI Engine for card location extractio"
 
   # This description is used to generate tags and improve search results.
@@ -91,7 +91,7 @@ Pod::Spec.new do |spec|
   #  Not including the public_header_files will make all headers public.
   #
 
-  spec.source_files  = "CreditCardOCREngine/**/*.{swift}"
+  spec.source_files  = "CreditCardEngine/**/*.{swift}"
   spec.exclude_files = "Classes/Exclude"
   spec.swift_version = "5.2"
 
