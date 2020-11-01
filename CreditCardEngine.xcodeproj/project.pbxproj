@@ -16,6 +16,7 @@
 		CC1DF7A7254F346800D04605 /* CardName.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC1DF7A2254F346800D04605 /* CardName.swift */; };
 		CC1DF7A8254F346800D04605 /* ExpiryDate.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC1DF7A3254F346800D04605 /* ExpiryDate.swift */; };
 		CC1DF7A9254F346800D04605 /* CardLocation.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = CC1DF7A4254F346800D04605 /* CardLocation.mlmodel */; settings = {ATTRIBUTES = (codegen, ); }; };
+		CC1DF7BE254F3ABB00D04605 /* LICENSE.txt in Resources */ = {isa = PBXBuildFile; fileRef = CC1DF7BD254F3ABA00D04605 /* LICENSE.txt */; };
 		FEE678B6AC69501A2767D50C /* Pods_CreditCardEngine_CreditCardEngineTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 4CA716E8F76F6204CBA97B83 /* Pods_CreditCardEngine_CreditCardEngineTests.framework */; };
 /* End PBXBuildFile section */
 
@@ -46,6 +47,7 @@
 		CC1DF7A2254F346800D04605 /* CardName.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardName.swift; sourceTree = "<group>"; };
 		CC1DF7A3254F346800D04605 /* ExpiryDate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExpiryDate.swift; sourceTree = "<group>"; };
 		CC1DF7A4254F346800D04605 /* CardLocation.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = CardLocation.mlmodel; sourceTree = "<group>"; };
+		CC1DF7BD254F3ABA00D04605 /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		D1D3023E2D1BAE37B8E8BBCC /* Pods_CreditCardEngine.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CreditCardEngine.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
@@ -82,6 +84,7 @@
 		CC1DF77A254F345800D04605 = {
 			isa = PBXGroup;
 			children = (
+				CC1DF7BD254F3ABA00D04605 /* LICENSE.txt */,
 				CC1DF786254F345800D04605 /* CreditCardEngine */,
 				CC1DF791254F345800D04605 /* CreditCardEngineTests */,
 				CC1DF785254F345800D04605 /* Products */,
@@ -227,6 +230,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CC1DF7BE254F3ABB00D04605 /* LICENSE.txt in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
