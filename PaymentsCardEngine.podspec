@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "PaymentsCardEngine"
-  spec.version      = "0.1.3"
+  spec.version      = "0.1.5"
   spec.summary      = "This is the core AI Engine for card location extractio"
 
   # This description is used to generate tags and improve search results.
