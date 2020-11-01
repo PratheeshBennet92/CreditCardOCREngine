@@ -19,7 +19,7 @@ public enum CardLocationResult: Int {
   case cardExpiry = 3
 }
 public class PaymentsCardEngine {
-  let model: CardLocation?
+  public let model: CardLocation?
   var names: [String] = []
   var expiry: [String] = []
   @ExpiryDate var date: String!
