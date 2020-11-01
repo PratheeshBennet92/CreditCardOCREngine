@@ -46,7 +46,7 @@
 		CC1DF7A1254F346700D04605 /* PredictedResult.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PredictedResult.swift; sourceTree = "<group>"; };
 		CC1DF7A2254F346800D04605 /* CardName.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CardName.swift; sourceTree = "<group>"; };
 		CC1DF7A3254F346800D04605 /* ExpiryDate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ExpiryDate.swift; sourceTree = "<group>"; };
-		CC1DF7A4254F346800D04605 /* CardLocation.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; path = CardLocation.mlmodel; sourceTree = "<group>"; };
+		CC1DF7A4254F346800D04605 /* CardLocation.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = CardLocation.mlmodel; path = ../../../../../../../../Documents/CreditCardEngine/CreditCardEngine/CreditCardEngine/CardLocation.mlmodel; sourceTree = BUILT_PRODUCTS_DIR; };
 		CC1DF7BD254F3ABA00D04605 /* LICENSE.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = LICENSE.txt; sourceTree = "<group>"; };
 		D1D3023E2D1BAE37B8E8BBCC /* Pods_CreditCardEngine.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_CreditCardEngine.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
